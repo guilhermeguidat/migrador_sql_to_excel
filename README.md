@@ -1,1 +1,1 @@
-# migrador_sql_to_excel
+# migrator_sql_to_excel
